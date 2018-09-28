@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">Mapp</string>
+    <string name="title_activity_fragment_holder">fragmentHolder</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_test">testActivity</string>
 </resources>
